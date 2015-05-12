@@ -1,0 +1,35 @@
+4/18/15 12:33:19 PM ============================================================
+
+-- Timers ----------------------------------------------------------------------
+BulkTestClient.FetchToken
+             count = 1000
+         mean rate = 12.98 calls/second
+     1-minute rate = 13.16 calls/second
+     5-minute rate = 13.07 calls/second
+    15-minute rate = 13.03 calls/second
+               min = 64.65 milliseconds
+               max = 293.07 milliseconds
+              mean = 73.91 milliseconds
+            stddev = 9.41 milliseconds
+            median = 71.58 milliseconds
+              75% <= 75.42 milliseconds
+              95% <= 89.33 milliseconds
+              98% <= 93.05 milliseconds
+              99% <= 97.70 milliseconds
+            99.9% <= 138.59 milliseconds
+BulkTestClient.InsertDocument
+             count = 1000
+         mean rate = 12.98 calls/second
+     1-minute rate = 4.70 calls/second
+     5-minute rate = 0.97 calls/second
+    15-minute rate = 0.33 calls/second
+               min = 1.94 milliseconds
+               max = 8.84 milliseconds
+              mean = 2.92 milliseconds
+            stddev = 0.61 milliseconds
+            median = 2.78 milliseconds
+              75% <= 3.25 milliseconds
+              95% <= 3.94 milliseconds
+              98% <= 4.19 milliseconds
+              99% <= 4.58 milliseconds
+            99.9% <= 7.44 milliseconds

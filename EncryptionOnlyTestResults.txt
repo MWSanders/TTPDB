@@ -1,0 +1,35 @@
+4/18/15 12:35:08 PM ============================================================
+
+-- Timers ----------------------------------------------------------------------
+edu.uccs.cs5920.TokenGeneratorTest.tokenGeneration
+             count = 1000
+         mean rate = 47.13 calls/second
+     1-minute rate = 45.66 calls/second
+     5-minute rate = 44.83 calls/second
+    15-minute rate = 44.68 calls/second
+               min = 17.31 milliseconds
+               max = 49.12 milliseconds
+              mean = 20.34 milliseconds
+            stddev = 2.33 milliseconds
+            median = 20.12 milliseconds
+              75% <= 21.44 milliseconds
+              95% <= 23.77 milliseconds
+              98% <= 25.78 milliseconds
+              99% <= 27.46 milliseconds
+            99.9% <= 49.12 milliseconds
+edu.uccs.cs5920.TokenGeneratorTest.tokenValidation
+             count = 1000
+         mean rate = 47.13 calls/second
+     1-minute rate = 0.00 calls/second
+     5-minute rate = 0.00 calls/second
+    15-minute rate = 0.00 calls/second
+               min = 0.25 milliseconds
+               max = 4.94 milliseconds
+              mean = 0.39 milliseconds
+            stddev = 0.22 milliseconds
+            median = 0.35 milliseconds
+              75% <= 0.40 milliseconds
+              95% <= 0.63 milliseconds
+              98% <= 0.69 milliseconds
+              99% <= 0.74 milliseconds
+            99.9% <= 4.34 milliseconds
