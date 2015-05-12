@@ -1,1 +1,2 @@
 # TTPDB
+This project provides a simple implementation of the Trusted Third Party approch to providing an anynonamous and accountable Datastore. Note that a private/public key pair must first be generated using the KeyGenerator class of the Broker module, with the public have being distributed to the Datastore module and the private being kept in the resources folder of the Broker. Furthermore, both the Broker and Datastore require running instances of MongoDB.
